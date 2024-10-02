@@ -1,4 +1,6 @@
-# Bem-Vindo ao Portifólio 
+![image](https://github.com/user-attachments/assets/4d2da589-69ee-40f6-bef7-721b60906224)
+
+
 
 Um simples projeto de portifólio pessoal a fim de servir como um "Currículo", além de mostrar as linguagens e habilidades que eu sei até o momento. Isso pode ajudar a deixar seu currículo oficial um pouco mais limpo, pois uma boa parte já está em seu próprio portifólio oficial.
 
