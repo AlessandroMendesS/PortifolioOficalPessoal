@@ -337,7 +337,8 @@ footer {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    background-color: #a7aca7;
+    background-color: #ffffff00;
+    border: 2px solid #fff;
     position: fixed;
     pointer-events: none;
     transform: translate(-50%, -50%);
