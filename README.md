@@ -4,11 +4,13 @@
 
 Um simples projeto de portifólio pessoal a fim de servir como um "Currículo", além de mostrar as linguagens e habilidades que eu sei até o momento. Isso pode ajudar a deixar seu currículo oficial um pouco mais limpo, pois uma boa parte já está em seu próprio portifólio oficial.
 
-## Linguagens Utilizadas e CdnJS
+## Linguagens Utilizadas
 
 - Html 5 ;
 - Css 3 ;
 - JavaScript ;
+
+ ## "Bibliotecas" - CDNjs
 
 - Font Awesome (CDNJS) ;
 - Typed.min.js (CDNJS) ; 
