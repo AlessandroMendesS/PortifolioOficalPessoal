@@ -340,11 +340,12 @@ footer {
     border-radius: 50%;
     background-color: transparent;  
     border: 2px solid #fff;  
-    position: fixed;
+    position: absolute; 
     pointer-events: none;
     transform: translate(-50%, -50%);
     z-index: 9999;
 }
+
 
 
 footer {
