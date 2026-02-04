@@ -53,6 +53,19 @@ header {
     padding: 15px 0;
 }
 
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--cor-texto);
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.menu-toggle i {
+    margin: 0;
+}
+
 .logo h1 {
     font-size: 28px;
     font-weight: 700;
@@ -443,6 +456,40 @@ h2 {
 
     .listadehabilidades {
         gap: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu-toggle {
+        display: block;
+    }
+
+    .main-nav {
+        position: absolute;
+        top: 100%;
+        right: 0;
+        width: 100%;
+        background-color: rgba(26, 26, 26, 0.95);
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+    }
+
+    .main-nav.open {
+        max-height: 260px;
+    }
+
+    .nav-list {
+        flex-direction: column;
+        padding: 10px 20px 15px;
+    }
+
+    .nav-list li {
+        margin: 8px 0;
+    }
+
+    header .container {
+        padding-right: 20px;
     }
 }
 

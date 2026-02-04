@@ -34,6 +34,23 @@ if (cursorDot && cursorOutline) {
 }
 
 
+const menuToggle = document.querySelector(".menu-toggle");
+const mainNav = document.querySelector(".main-nav");
+
+if (menuToggle && mainNav) {
+  menuToggle.addEventListener("click", () => {
+    mainNav.classList.toggle("open");
+  });
+
+  const navLinks = mainNav.querySelectorAll("a");
+  navLinks.forEach((link) => {
+    link.addEventListener("click", () => {
+      mainNav.classList.remove("open");
+    });
+  });
+}
+
+
 const designTabContainers = document.querySelectorAll(".design-tabs");
 
 designTabContainers.forEach((container) => {
