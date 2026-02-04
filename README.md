@@ -10,10 +10,7 @@ Um portfólio pessoal para servir como "Currículo Digital", apresentando habili
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Layout](#layout)
-- [Como Utilizar](#como-utilizar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Autor](#autor)
+
 
 ## Sobre o Projeto
 
@@ -30,7 +27,6 @@ Este projeto de portfólio pessoal foi desenvolvido para complementar o currícu
 - **Sobre**: Informações detalhadas sobre formação e experiência
 - **Habilidades**: Lista de tecnologias e ferramentas dominadas
 - **Projetos**: Galeria de projetos desenvolvidos com links e descrições
-- **Contato**: Formulário para entrar em contato e links para redes sociais
 
 ## Tecnologias Utilizadas
 
@@ -53,4 +49,5 @@ Feito com ❤️ por Alessandro Mendes - [Entre em contato!](https://github.com/
 
 ---
 !
+
 
